@@ -1,0 +1,9 @@
+D:\Project C#\Graf ed\Graf ed\bin\Debug\Graf ed.exe.config
+D:\Project C#\Graf ed\Graf ed\bin\Debug\Graf ed.exe
+D:\Project C#\Graf ed\Graf ed\bin\Debug\Graf ed.pdb
+D:\Project C#\Graf ed\Graf ed\obj\Debug\Graf ed.csprojAssemblyReference.cache
+D:\Project C#\Graf ed\Graf ed\obj\Debug\Graf_ed.Form1.resources
+D:\Project C#\Graf ed\Graf ed\obj\Debug\Graf_ed.Properties.Resources.resources
+D:\Project C#\Graf ed\Graf ed\obj\Debug\Graf ed.csproj.GenerateResource.cache
+D:\Project C#\Graf ed\Graf ed\obj\Debug\Graf ed.exe
+D:\Project C#\Graf ed\Graf ed\obj\Debug\Graf ed.pdb
